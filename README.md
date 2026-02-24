@@ -8,10 +8,6 @@ FastQC is a program designed to spot potential problems in high througput sequen
 
 FastQC will highlight any areas where this library looks unusual and where you should take a closer look. The program is not tied to any specific type of sequencing technique and can be used to look at libraries coming from a large number of different experiment types (Genomic Sequencing, ChIP-Seq, RNA-Seq, BS-Seq etc etc).
 
-> [!NOTE]
-> This GitHub  project page contains the source code for the application and is only really useful only to people wanting to develop new functionality or trace bugs in FastQC.
-> If you just want to run the program then you want to go to the [**project web page**](http://www.bioinformatics.babraham.ac.uk/projects/fastqc/) where you can download the compiled pacakges for Windows, OSX and Linux.
-
 ## Introduction
 
 Most high throughput sequencers generate output in FastQ format.  This format combines the base calls for the sequence which was generated with an encoded quality value for each base which says how confident the sequencer was that the base call generated was correct.
@@ -27,7 +23,7 @@ Having said that we've only tested in on Windows, MacOSX and Linux running the O
 
 ## Installation
 
-Please see the [**project web page**](http://www.bioinformatics.babraham.ac.uk/projects/fastqc/) and the [installation instructions](INSTALL.md) in this repository.
+Please see the [installation instructions](INSTALL.md) in this repository.
 
 ## Contributions
 
