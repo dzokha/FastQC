@@ -33,6 +33,6 @@ Please see the [**project web page**](http://www.bioinformatics.babraham.ac.uk/p
 
 If you have any comments about FastQC we would like to hear them.  You can either enter them into the github bug tracker at:
 
-https://github.com/s-andrews/FastQC/issues/
+https://github.com/dzokha/FastQC/issues/
 
-..or send them directly to simon.andrews@babraham.ac.uk.
+..or send them directly to dzokha1010@gmail.com.
