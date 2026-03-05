@@ -1,4 +1,5 @@
-# FastQC
+# SOAP
+Sequence Optimization and Alignment Program
 
 **A Quality Control application for FastQ files**
 
