@@ -1,7 +1,5 @@
 # SOAP: Sequence Optimization and Alignment Program
 
-## Giải pháp toàn diện về Kiểm soát chất lượng (QC) và Phân tích trình tự DNA
-
 **SOAP** là một ứng dụng mã nguồn mở được thiết kế để phân tích, đánh giá và tối ưu hóa dữ liệu **giải trình tự hiệu năng cao (High-Throughput Sequencing)**.  
 
 Với khả năng xử lý mạnh mẽ các định dạng dữ liệu thô như **FastQ** và **BAM**, SOAP cung cấp cái nhìn chi tiết về chất lượng thư viện, giúp các nhà nghiên cứu phát hiện sớm các sai sót kỹ thuật trước khi tiến hành các phân tích hạ nguồn phức tạp.
